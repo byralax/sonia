@@ -31,7 +31,7 @@ const photos = [
   },
   {
     id: 4,
-    src: "/placeholder.svg?height=300&width=400",
+    src: "https://i.postimg.cc/wxwJWzdg/IMG-20250529-WA0024.jpg",
     alt: "Local market scene",
     caption: "Vibrant markets full of life!",
     rotation: "-rotate-3",
